@@ -1,270 +1,622 @@
 {
-  "Mockups": [
+  "Good old times": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
-    },
-    {
+      "width": 768,
       "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "path": "./photos/Good old times/IMG-20200924-WA0016.jpg",
+      "compressed_path": "./photos/Good old times/IMG-20200924-WA0016.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/Good old times/IMG-20200924-WA0016.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
-    },
-    {
+      "width": 768,
       "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "path": "./photos/Good old times/IMG-20200924-WA0014.jpg",
+      "compressed_path": "./photos/Good old times/IMG-20200924-WA0014.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "placeholder_path": "./photos/Good old times/IMG-20200924-WA0014.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Indianapolis": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200624_184540122_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200624_184540122_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200624_184540122_HDR.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201107_110240887.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201107_110240887.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201107_110240887.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201024_105804310.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201024_105804310.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201024_105804310.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201029_185311259.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201029_185311259.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201029_185311259.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191031_155621825_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191031_155621825_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20191031_155621825_HDR.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191108_101007264_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191108_101007264_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20191108_101007264_HDR.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/EFFECTS(1).jpg",
+      "compressed_path": "./photos/Indianapolis/EFFECTS(1).min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": "./photos/Indianapolis/EFFECTS(1).placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201011_183250831.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201011_183250831.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201011_183250831.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201023_195524284.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201023_195524284.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201023_195524284.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20190628_181731418_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20190628_181731418_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20190628_181731418_HDR.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201024_105710036.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201024_105710036.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201024_105710036.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201023_153555798_MP.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201023_153555798_MP.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201023_153555798_MP.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200222_183309321_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200222_183309321_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200222_183309321_HDR.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201024_105705220.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201024_105705220.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201024_105705220.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200524_193308379_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200524_193308379_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200524_193308379_HDR.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200715_191710346_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200715_191710346_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200715_191710346_HDR.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200605_182504561.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200605_182504561.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200605_182504561.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201109_093503585.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201109_093503585.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201109_093503585.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191018_191248855_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191018_191248855_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20191018_191248855_HDR.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200613_191733251_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200613_191733251_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200613_191733251_HDR.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191018_191234390_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191018_191234390_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20191018_191234390_HDR.placeholder.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200624_184859809_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200624_184859809_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200624_184859809_HDR.placeholder.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200614_180229844.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200614_180229844.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200614_180229844.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201029_191754015.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201029_191754015.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201029_191754015.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200711_172703006.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200711_172703006.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20200711_172703006.placeholder.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191108_101024165_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191108_101024165_HDR.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20191108_101024165_HDR.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201029_185320031.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201029_185320031.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201029_185320031.placeholder.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201006_100118371.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201006_100118371.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": "./photos/Indianapolis/IMG_20201006_100118371.placeholder.jpg"
+    },
+    {
+      "width": 4400,
+      "height": 896,
+      "path": "./photos/Indianapolis/IMG_20200715_191737170.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200715_191737170.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200715_191737170.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201011_183245609.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201011_183245609.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201011_183245609.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/EFFECTS(4).jpg",
+      "compressed_path": "./photos/Indianapolis/EFFECTS(4).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/EFFECTS(4).placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200710_191903577.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200710_191903577.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200710_191903577.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183506261.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183506261.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183506261.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200613_191730695_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200613_191730695_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200613_191730695_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/EFFECTS(3).jpg",
+      "compressed_path": "./photos/Indianapolis/EFFECTS(3).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/EFFECTS(3).placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20190623_152857571_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20190623_152857571_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20190623_152857571_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200524_193253244.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200524_193253244.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200524_193253244.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201025_092730012_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201025_092730012_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201025_092730012_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200216_183950910.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183950910.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183950910.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183835596.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183835596.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183835596.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 3494,
+      "path": "./photos/Indianapolis/IMG_20200710_191911459.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200710_191911459.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200710_191911459.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200216_183017418.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183017418.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183017418.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200216_183335044.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183335044.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183335044.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201001_184846489_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201001_184846489_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201001_184846489_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201008_120036850_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201008_120036850_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201008_120036850_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/EFFECTS.jpg",
+      "compressed_path": "./photos/Indianapolis/EFFECTS.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/EFFECTS.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201001_184835138_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201001_184835138_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201001_184835138_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200221_185232600.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200221_185232600.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200221_185232600.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201001_184821543.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201001_184821543.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201001_184821543.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 1856,
+      "path": "./photos/Indianapolis/IMG_20190731_190254538_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20190731_190254538_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20190731_190254538_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191111_213457601_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191111_213457601_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20191111_213457601_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201001_184846489_HDR-EFFECTS.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201001_184846489_HDR-EFFECTS.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201001_184846489_HDR-EFFECTS.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20191218_085544095_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191218_085544095_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20191218_085544095_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200613_191513671.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200613_191513671.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200613_191513671.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201025_092758562_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201025_092758562_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201025_092758562_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201108_174321647.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201108_174321647.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201108_174321647.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200624_184622202-EFFECTS.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200624_184622202-EFFECTS.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200624_184622202-EFFECTS.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/EFFECTS(2).jpg",
+      "compressed_path": "./photos/Indianapolis/EFFECTS(2).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/EFFECTS(2).placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183505822.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183505822.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183505822.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201023_195527693.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201023_195527693.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201023_195527693.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183026726.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183026726.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183026726.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183835596-EFFECTS.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183835596-EFFECTS.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183835596-EFFECTS.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183031961.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183031961.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183031961.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200610_014714439.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200610_014714439.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200610_014714439.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201008_120041935_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201008_120041935_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201008_120041935_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200524_193813435.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200524_193813435.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200524_193813435.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201108_174310900.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201108_174310900.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201108_174310900.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20200216_183529384_MP.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183529384_MP.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183529384_MP.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201022_215219098.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201022_215219098.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201022_215219098.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20201109_093459767.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201109_093459767.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201109_093459767.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200715_192254176.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200715_192254176.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200715_192254176.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20201001_184927691_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20201001_184927691_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20201001_184927691_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos/Indianapolis/IMG_20200216_183522858.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20200216_183522858.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20200216_183522858.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191018_191234390_HDR-EFFECTS.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191018_191234390_HDR-EFFECTS.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20191018_191234390_HDR-EFFECTS.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos/Indianapolis/IMG_20191218_085635007_HDR.jpg",
+      "compressed_path": "./photos/Indianapolis/IMG_20191218_085635007_HDR.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Indianapolis/IMG_20191218_085635007_HDR.placeholder.jpg"
     }
   ]
 }
